@@ -18,7 +18,7 @@ body {
 }
 
 .header_text {
-    font-family: 'Nunito';
+    font-family: "Bubblegum Sans";
     font-size: 40px;
     font-weight: bold;
     color: rgb(255, 255, 255);
@@ -38,7 +38,7 @@ body {
 
 .btn {
     background-color: #ffffff;
-    color: rgb(233, 48, 48);
+    color: rgb(247, 2, 223);
     padding: 15px 32px;
     text-align: center;
     display: inline-block;
